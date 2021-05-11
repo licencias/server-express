@@ -6,5 +6,3 @@ dist
 ssl
 
 # files
-.env
-.env*
